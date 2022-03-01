@@ -1,0 +1,14 @@
+.bg-primary {
+  background: #009688 !important;
+}
+.banner {
+  width: 100%;
+  height: 93vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../images/banner.jpg);
+  /* background-size: cover; */
+  color: white;
+}
+.my-card {
+  padding: 30px;
+}
